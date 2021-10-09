@@ -1,3 +1,5 @@
+create database northwind;
+
 CREATE TABLE northwind.categories (
 	CategoryID int(10),
 	CategoryName varchar(25),
