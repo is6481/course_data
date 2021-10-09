@@ -1,3 +1,4 @@
+create database unsupervised_learning;
 CREATE TABLE unsupervised_learning.protein (
 	Country varchar(25),
 	RedMeat decimal(10),

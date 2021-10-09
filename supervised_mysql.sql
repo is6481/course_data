@@ -1,3 +1,4 @@
+create database supervised_learning;
 CREATE TABLE supervised_learning.weather (
 	Date date,
 	Location varchar(25),
